@@ -1,6 +1,6 @@
 ---
-anchor: Початок
+anchor: початок
 ---
 
-# Початок {#getting_started_title}
+# Початок {#початок_title}
 

@@ -1,5 +1,5 @@
 ---
-anchor: getting_started
+anchor: Початок
 ---
 
 # Початок {#getting_started_title}
